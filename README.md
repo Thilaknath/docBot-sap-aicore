@@ -31,3 +31,6 @@ The idea of the app is to respond to everyday infra related questions which the 
 4. You need to have ngrok installed to have a temporary route to your application which you can configure in slack
 5. Upon ngrol step start ngrok to listen in port `3000` using `ngrok http http://localhost:3000`
 6. Configure in your slack app -> Event Subscriptions -> Request URL -> URL_FROM_NGROK/slack/events -> A challenge will be sent to your app upon which it should work
+
+## To Do
+1. Modify the service to have to connect to a chat server locally. 

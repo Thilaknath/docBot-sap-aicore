@@ -1,0 +1,8 @@
+langchain
+pypdf
+slackclient
+flask
+langchain-openai 
+langsmith 
+langchain 
+langchain_experimental
